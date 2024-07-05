@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-- [Introduction](introduction)
-- [Project Structure](project-structure)
-- [Data Collection](data-collection)
-- [Data Preprocessing](data-preprocessing)
-- [Model Training and Evaluation](model-training-and-evaluation)
-- [Web Application](web-application)
-  - [Installation](installation)
-  - [Usage](usage)
-- [Acknowledgments](acknowledgments)
+- [Introduction](#introduction)
+- [Project Structure](#project-structure)
+- [Data Collection](#data-collection)
+- [Data Preprocessing](#data-preprocessing)
+- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Web Application](#web-application)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
